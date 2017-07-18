@@ -37,6 +37,8 @@ gem 'simple_form'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'font-awesome-rails'
+gem 'letter_opener', group: :development
+gem 'aasm'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
